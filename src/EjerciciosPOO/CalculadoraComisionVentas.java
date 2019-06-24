@@ -56,6 +56,6 @@ public class CalculadoraComisionVentas {
     } 
     }
     public double Retorna(double salario) {
-        return salario * 9 / 100;
+       return salario*9/100;
     }
 }
